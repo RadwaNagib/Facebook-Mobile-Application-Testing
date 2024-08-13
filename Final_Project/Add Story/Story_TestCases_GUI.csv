@@ -1,0 +1,21 @@
+﻿TCID,Summary,Action,types,Expected Results,Actual Result,Status,Priority,Requirement Traceability,Bug Traceability
+1,Verify all the items of story page apear on mobile screen as per the standard,"1-Open the Facebook mobileapplication
+",Manual,"the items on the post 
+page apear as per the standard","the items on the post 
+page apear as per the standard",,,,
+,,"2-click on ""Create story""",,,,,,,
+,,3- Look at the items on the page,,,,,,,
+2,"Verify if the font size of the items in the story
+ page is as per the standard.","1-Open the Facebook mobileapplication
+",Manual,"the font size of the items
+ in the post page is as per the standard","the font size of the items
+ in the post page is as per the standard",,,,
+,,"2-click on ""Create story""",,,,,,,
+,,3- Look at the font size of the items,,,,,,,
+3,"Verify the color of the items in the post page
+ is as per the standard.","1-Open the Facebook mobileapplication
+",Manual,"color of the items in the 
+post page is as per the standard.","color of the items in the 
+post page is as per the standard.",,,,
+,,"2-click on ""Create story""",,,,,,,
+,,3- Look at color of the items in the post page.,,,,,,,

@@ -1,0 +1,43 @@
+﻿TCID,Summary,Action,types,Expected Results,Actual Result,Status,Priority,Requirement Traceability,Bug Traceability
+1,Verify all the items on Messenger page appear on mobile screen as per the standard,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3- Look at the items on the page",Manual,"the items in messager page 
+must appear as per the standard","the items in messager page 
+must appear as per the standard",Pass,P1,,
+2,Verify all the items Color on Messenger page appear on mobile screen as per the standard,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3- Look at the items color  on the messager  page",Manual,the items color in messager page must appear as per the standard,"the items color in 
+messager page must appear as per the standard",Pass,P1,,
+3,Verify all the items Font on Messenger page appear on mobile screen as per the standard,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3- Look at the items font  on the messager  page",Manual,the items font in messager page must appear as per the standard,"the items font in messager 
+page must appear as per the standard",Pass,P1,,
+4,Verify all the items Size on Messenger page appear on mobile screen as per the standard,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3- Look at the items size  on the messager  page",Manual,the items size in messager page must appear as per the standard,"the items size in messager
+ page must appear as per the standard",Pass,P1,,
+5,verify chats icon is usable,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3- click on chats icon",Manual, chats icon must be usable,chats icon must be usable,Pass,P1,,
+6,verify calls icon is usable,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3- click on calls icon",Manual, calls icon must be usable, calls icon must be usable,Pass,P1,,
+7,verify People icon is usable,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3- click on People icon",Manual,people icon must be usable,people icon must be usable,Pass,P1,,
+8,verify writing onside search field,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3- click onside search field
+4- try to write some query",Manual,"writing inside search field
+is usable","writing inside search field
+is usable",Pass,P1,,
+9,verify New message icon is usable,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3- click on New Message icon",Manual,"New Message icon must be 
+usable","New Message icon must be 
+usable",Pass,P1,,
+10,verify Camera icon is usable,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3- click on Camera icon",Manual,"Camera icon must be 
+usable","Camera icon must be 
+usable",Pass,P1,,

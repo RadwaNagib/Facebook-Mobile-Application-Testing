@@ -1,0 +1,781 @@
+﻿TCID,Summary,Action,types,Expected Results,Actual Result,Status,Priority,Requirement Traceability,Bug Traceability
+1,Verify can navigate to chatting room with specific member in messenger,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of specific member
+",Manual,"must open chatting room
+with specific member","must open chatting room
+with specific member",Pass,p1,,
+2,verify to scrool up and down the screen of members appear in messanger,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-can scrool up and down inside screen
+",Manual,"can do scrool up and down
+the screen of members appear in messanger smozly","can do scrool up and down
+the screen of members appear in messanger smozly",Pass,p1,,
+3,Verify can typing message in specific member then send it,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+",Manual,"the message must writing 
+then send on member","the message must writing 
+then send on member",Pass,p1,,
+4,verify to send the okey mark in specific member,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on okey mark
+5-press send icon
+",Manual,"the mark of okey hand send 
+",the mark of okey hand send successfully,Pass,p1,,
+5,Verify after typing message in specific member then send it have correct mark,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-write""hellow""
+5-press send icon
+",Manual,"the message must writing 
+then send on member also 
+have  correct mark","the message must writing 
+then send on member also 
+have  correct mark",Pass,p1,,
+6,"Verify after send message in specific member and seen ,have the seen mark","1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-write""hellow""
+5-press send icon",Manual,the message must  have the mark of seen when member see it,"the message must  have
+ the mark of seen when member see it",Pass,p1,,
+7,Verify can choose motion in specific member then send it,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on motion icon 
+5-choose smail motion
+6-press send
+",Manual,the motion must sent ,the motion must send successfully,Pass,p1,,
+8,Verify to search about stickers by using Search stickers,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on motion icon 
+5-click on search stickers
+6-write""heart""on search field
+7-choose one from search result
+8-click send icon",Manual,the motion must sent ,the motion must send successfully,Pass,p1,,
+9,verify to out from member conversation when click back arrow,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on back arrow on the above lift side of screen",Manual,"out from member 
+conversation","out from member conversation
+done successfully",Pass,p1,,
+10,Verify can choose image from category and send to specific member then send it,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on galary icon
+5-select image
+6-click send",Manual,the image must sent ,the image must send,Pass,p1,,
+11,"Verify can open back camera in specific member and used it
+to take photo ","1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-use back camera
+6-capture photo
+7-click send icon",Manual,the image must sent ,the image must send,Pass,p1,,
+12,"Verify can open back camera in specific member and used it
+to take photo and save it in phone","1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-use back camera
+6-capture photo
+7-press save button
+7-click send icon",Manual,"the image must saved in 
+mobile and send","the image must saved
+in Mobile",Pass,p1,,
+13,"Verify can open selfie camera in specific member and used it
+to take photo","1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-use selfie camera
+6-capture photo
+7-click send icon",Manual,"the image must send
+successfully","the image must send
+successfully",Pass,p1,,
+14,"Verify can open selfie camera in specific member and used it
+to take photo and save it in phone","1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-use selfie camera
+6-capture photo
+7-press save button
+7-click send icon",Manual,"the image save and send 
+must send successfully","the image must save and send
+successfully",Pass,p1,,
+15,Verify can open TEXT feature from camera after take aphoto in specific member and write text with classic font,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5- CLICK ON NORMAL BUTTON
+4-click on TEXT ICON
+5-write""Ramadan Careem"" with classic font
+6-press DONE button
+7-press send",Manual,"the text must be written on 
+screen with classic font","the text must be written on 
+screen with classic font",Pass,p1,,
+16,Verify can open TEXT feature from camera after take aphoto in specific member and write text with MODERN font,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5- CLICK ON NORMAL BUTTON
+6-click on TEXT ICON
+7-write""Ramadan Careem"" with MODERN font
+8-press DONE button
+9-press send",Manual,"the text must be written on 
+screen with Modern font","the text must be written on 
+screen with Modern font",Pass,p1,,
+17,Verify can open TEXT feature from camera after take aphoto in specific member and write text with TABLOID font,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5- CLICK ON NORMAL BUTTON
+6-click on TEXT ICON
+7-write""Ramadan Careem"" with TABLOID font
+8-press DONE button
+9-press send
+",Manual,"the text must be written on 
+screen with TRABOID font",the text must be written on screen with TRABOID font,Pass,p1,,
+18,Verify can open TEXT feature from camera in specific member and write text with GLAM font,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on TEXT ICON
+5-write""Ramadan Careem"" with GLAM font
+6-press DONE button
+7-press send",Manual,"the text must be written on 
+screen with GLAM font","the text must be written on 
+screen with GLAM font",Pass,p1,,
+19,Verify can open TEXT feature from camera after take aphoto in specific member and write text with EDITORIAL font,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5- CLICK ON NORMAL BUTTON
+6-click on TEXT ICON
+7-write""Ramadan Careem"" with EDITORIAL font
+8-press DONE button
+9-press send",Manual,"the text must be written on 
+screen with EDITORIAL font",the text must be written on screen with EDITORIAL font,Pass,p1,,
+20,Verify can open TEXT feature from camera after take aphoto in specific member and write text with UNIVERSAL font,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5- CLICK ON NORMAL BUTTON
+6-click on TEXT ICON
+7-write""Ramadan Careem"" with UNIVERSAL font
+8-press DONE button
+9-press send",Manual,"the text must be written on 
+screen with UNIVERSAL font","the text must be written on 
+screen with UNIVERSAL font",Pass,p1,,
+21,Verify can open TEXT feature from camera after take aphoto  in specific member and write text using Drow icon,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5- CLICK ON NORMAL BUTTON
+6-click on TEXT ICON
+7-choose Drow icon
+8-Draw""wave line""
+9-press DONE button
+10-press send",Manual,"the wave line drow and send 
+successfully","the wave line must drow and send 
+successfully",Pass,p1,,
+22,Verify can open TEXT feature from camera after take aphoto in specific member and add motion,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5- CLICK ON NORMAL BUTTON
+6-click on TEXT ICON
+7-choose motion icon
+8-click on Emoji
+9-press DONE button
+10-press send",Manual,"the motion addedon screen
+and send succeefully","the motion addedon screen
+and send succeefully",Pass,p1,,
+23,Verify can open TEXT feature from camera after take aphoto in specific member and add Stickers,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5- CLICK ON NORMAL BUTTON
+6-click on TEXT ICON
+7-choose motion icon
+8-click on Stikers
+9-press DONE button
+10-press send",Manual,"the Sticker added on screen
+and send succeefully","the Stickermust added on screen
+and send succeefully",Pass,p1,,
+24,Verify can open TEXT feature from camera after take aphoto in specific member and check eras icon,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5- CLICK ON NORMAL BUTTON
+6-click on TEXT ICON
+7-choose motion icon
+8-click on Stikers
+9-press DONE button
+10-press send",Manual,the text erase successfully,the text erase successfully,Pass,p1,,
+25,Verify can open TEXT feature from camera after take aphoto in specific member and check arrow icon,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5- CLICK ON NORMAL BUTTON
+6-click on TEXT ICON
+7-choose motion icon
+8-click on Stikers
+9-press DONE button
+10-press send",Manual,"the arrow added and send 
+in the message successfully",the arrow added and send in the message successfully,Pass,p1,,
+26,Verify can open TEXT feature from camera after take aphoto in specific member and check arrow icon with different colors,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5- CLICK ON NORMAL BUTTON
+6-click on TEXT ICON
+7-choose motion icon
+8-click on Stikers
+9-press DONE button
+10-press send",Manual,the arrow color change related to the color choosed,"the arrow color change 
+related to the color choosed",Pass,p1,,
+27,"Verify can open selfie camera in specific member and used it
+to record Video","1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-  let camera in selfie posesion
+6- CLICK ON VIDEO BUTTON
+7-click on record button",Manual,the video send successfully,the video send successfully,Pass,p1,,
+28,"Verify can open back camera in specific member and used it
+to record video","1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-  let camera in selfie posesion
+6- CLICK ON VIDEO BUTTON
+7-click on record button
+8-after finising click send",Manual,the video send successfully,the video send successfully,Pass,p1,,
+29,verify to start record video with back camera and during record change camera to felfie ,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-  let camera in back posesion
+6- CLICK ON VIDEO BUTTON
+7-click on record button
+8-during record click on selfie button
+9-after finising click send ",Manual,"the video send successfully 
+with two posision(back and selfie)
+","the video must send successfully 
+with two posision(back and selfie)",Pass,p1,,
+30,Verify that not send video when clcik back after record it,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-  let camera in back posesion
+6- CLICK ON VIDEO BUTTON
+7-click on record button
+9-after finising click back",Manual,"the video not sended 
+when press back","the video must not send when clcik
+back",Pass,p1,,
+31,Verify BOOMERANG with record Video using back Camera,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in back posesion
+6-let possion on BOOMERANG
+7-click on record button
+9-after finising record click send",Manual,"the video record with
+ MOOMERANG and send successfully","the video must recoed with
+ MOOMERANG successfully and send",Pass,p1,,
+32,Verify BOOMERANG with record Video using back Camera then clcik back ,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in back posesion
+6-let possion on BOOMERANG
+7-click on record button
+9-after finising record click Back ",Manual,the video that recorded canceled when press back button,the video that recorded must canceled when press back button,Pass,p1,,
+33,Verify BOOMERANG with record Video using back Camera then click save,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in back posesion
+6-let possion on BOOMERANG
+7-click on record button
+9-after finising record click save ",Manual,the video record saved on mobile successfully,the video record must saved on mobile successfully,Pass,p1,,
+34,Verify BOOMERANG with record Video using selfie Camera,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in selfie posesion
+6-let possion on BOOMERANG
+7-click on record button
+9-after finising record click send",Manual,"the video record with
+ MOOMERANG and send successfully","the video must recoed with
+ MOOMERANG successfully and send",Pass,p1,,
+35,Verify BOOMERANG with record Video using selfie Camera then press save,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in selfie posesion
+6-let possion on BOOMERANG
+7-click on record button
+9-after finising record click save",Manual,the video saved successfully in mobile,the video must saved successfully in mobile,Pass,p1,,
+36,Verify BOOMERANG with record Video using selfie Camera then press back,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in selfie posesion
+6-let possion on BOOMERANG
+7-click on record button
+9-after finising record click back",Manual,the video canceled when click back button,the video must canceled when click back button,Pass,p1,,
+37,Verify save video on mobile with BOOMERANG ,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in back posesion
+6-let possion on BOOMERANG
+7-click on record button
+9-after finising record click save",Manual,the video saved in mobile,"the video saved successfully 
+in mobile",Pass,p1,,
+38,Verify to send video on mobile with BOOMERANG ,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in back posesion
+6-let possion on BOOMERANG
+7-click on record button
+9-after finising record click send",Manual,the video Send successfully,the video must send successfully,Pass,p1,,
+39,Verify to cancel video on mobile with BOOMERANG by press back ,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in back posesion
+6-let possion on BOOMERANG
+7-click on record button
+9-after finising record click Back ",Manual,"the video canceled when 
+click back button",the video must canceld when press back button,Pass,p1,,
+40,Verify BOOMERANG with record video with add text after take it using back Camera,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in back posesion
+6-let possion on BOOMERANG
+7-choose first boomerang icon
+7-click on record button
+9-after finising record 
+10-tap on screen
+11-click Text icon
+12-add ""Ramadan Karim""
+13-click DONE button
+14-click send",Manual,"the video record send
+with add text","the video record send
+with add text successfully",Pass,p1,,
+41,Verify BOOMERANG with record video with add drow after take it using back Camera,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in back posesion
+6-let possion on BOOMERANG
+7-choose first boomerang icon
+7-click on record button
+9-after finising record 
+10-tap on screen
+11-click add drow icon
+12-add ""Ramadan""
+13-click DONE button
+14-click send",Manual,"the video record send
+with add drow","the video record send
+with add drow successfully",Pass,p1,,
+42,Verify BOOMERANG with record video with add Motion after take it using back Camera,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in back posesion
+6-let possion on BOOMERANG
+7-choose first boomerang icon
+7-click on record button
+9-after finising record 
+10-tap on screen
+11-click on motion icon
+12-choose heart motion
+13-click DONE button
+14-click send",Manual,"the video record send
+with add Motion","the video record send
+with add Motion successfully",Pass,p1,,
+43,Verify BOOMERANG with record video with use eraser after take it using back Camera,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in back posesion
+6-let possion on BOOMERANG
+7-choose first boomerang icon
+7-click on record button
+9-after finising record 
+10-tap on screen
+11-click Text icon
+12-add ""Ramadan Karim""
+13-click on eraser icon
+14-erase ""Ramadan Karim""
+13-click DONE button
+14-click send",Manual,the eraser work correctly,the eraser work correctly,Pass,p1,,
+44,Verify BOOMERANG with record video with drow arrow after take it using back Camera,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on camera icon
+5-let camera in back posesion
+6-let possion on BOOMERANG
+7-choose first boomerang icon
+7-click on record button
+9-after finising record 
+10-tap on screen
+11-click drow icon
+12-clickon arrow icon to add arrow
+13-click DONE button
+14-click send",Manual,the arrow added successfully,the arrow must added successfully,Pass,p1,,
+45,"Verify to send video record from mobile Gallery to specific member 
+in messanger","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on galary icon
+5-select video
+6-click send",Manual,the video send successfully,the video must send successfully,Pass,p1,,
+46,"Verify to send video record from mobile Gallery to specific member 
+in messanger then EDIT text","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on galary icon
+5-select video
+6-click EDIT button
+7-click Text icon
+8-add""happy""
+9-click Done
+10-click send
+6-click send",Manual,the video send with add text,the video must send with add text,Pass,p1,,
+47,"Verify to send Image from mobile Gallery to specific member 
+in messanger then EDIT text","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on galary icon
+5-select Image
+6-click EDIT button
+7-click Text icon
+8-add""happy""
+9-click Done
+10-click send
+6-click send",Manual,the image send with add text,the image must send with add text,Pass,p1,,
+48,Verify UNDO feature that appear after choose member to send video record to him,"1-Click on photo icon from mobileapplication
+3-sellect video
+4-click share via messanger
+5-choose member from messanger to send video
+6-click Undo",Manual,"the video not sended 
+when press UNDO",THE VIDEO NOT SENDED,Pass,p1,,
+49,Verify to Delete video after send it to member in messanger,"1-Click on photo icon from mobileapplication
+3-sellect video
+4-click share via messanger
+5-choose member from messanger to send video
+6-navigate to chatting room of member that send video to him
+7-delete video",Manual,the video Deleted,the video must deleted successfully,Pass,p1,,
+50,"verify search field to search from member in messanger to send 
+video record to him","1-Click on photo icon from mobileapplication
+3-sellect video
+4-click share via messanger
+5-Click on search field
+6-write name of member""mona ali""
+7-when appear in search result 
+click send ",Manual,"the video send successfully 
+",the video send successfully ,Pass,p1,,
+51,"Verify to send photo from mobile Gallery to specific member 
+in messanger by using search field","1-Click on photo icon from mobileapplication
+3-sellect photo
+4-click share via messanger
+5-Click on search field
+6-write name of member""mona ali""
+7-when appear in search result 
+click send ",Manual,"the photo send successfully 
+",the photo send successfully ,Pass,p1,,
+52,"Verify to Forward text message from member to another
+ member in messanger","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on text message to want Forward
+5- choose Forward icon
+6-clcik SEND to member that want to send text message to him",Manual,"the text message Forward from member to another
+ member in messanger","the text message Forward from member to another
+ member in messanger successfully",Pass,p1,,
+53,"Verify to Forward photo message from member
+ to member in messanger","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on photo message to want Forward
+5- choose Forward icon
+6-clcik SEND to member that want to send photo message to him",Manual,"the photo message Forward  from member
+ to member in messanger","the photo message Forward  from member
+to member in messanger successfully",Pass,p1,,
+54,"Verify to Forward video record message from member
+ to member in messanger","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click onVideo message to want Forward
+5- choose Forward icon
+6-clcik SEND to member that want to send video message to him",Manual," video record message forward from member
+ to member in messanger"," video record forward message forward from member
+ to member in messanger successfully",Pass,p1,,
+55,"verify to forward video message from member to another 
+inside messanger using search field","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on Video message to want Forward
+5- choose Forward icon
+6-click search field
+7-write name of member that want to send to him video message
+6-click SEND to him when appear in search result",Manual,"the video message Forward
+ from member to another 
+inside messanger using search field","the video message Forward
+from member to another 
+inside messanger using search field 
+successfully",Pass,p1,,
+56,"verify to forward video message from member to another 
+inside messanger by create new Group to send","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on Video message to want Forward
+5- choose Forward icon
+6-click CREATE GROUP
+7-SELECT members of group
+6-click SEND ",Manual,"the video message Forward from member to another 
+inside messanger by create new Group to send"," video message Forward from member to another 
+inside messanger by create new Group to send successfully",Pass,p1,,
+57,"verify to forward video message from member to another 
+exist group inside messanger ","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on Video message to want Forward
+5- choose Forward icon
+6-click on exit GROUP
+7-click SEND ",Manual,"the video message Forward from member to another 
+exist group inside messanger ","the video message Forward from member to another 
+exist group inside messanger successfully",Pass,p1,,
+58,"verify to forward text message from member to another 
+inside messanger using search field","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on text message to want Forward
+5- choose Forward icon
+6-click search field
+7-write name of member that want to send to him text message
+6-click SEND to him when appear in search result",Manual,"text message Forward from member to another 
+inside messanger using search field","text message Forward from member to another 
+inside messanger using search fieldSuccessfully",Pass,p1,,
+59,"verify to forward text message from member to another 
+inside messanger by create new Group to send","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on text message to want Forward
+5- choose Forward icon
+6-click CREATE GROUP
+7-SELECT members of group
+6-click SEND 
+",Manual,"text message Forward from member to another 
+inside messanger by create new Group to send","text message Forward from member to another 
+inside messanger by create new Group to send successfully",Pass,p1,,
+60,"verify to forward text message from member to another 
+exist group inside messanger ","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on Text message to want Forward
+5- choose Forward icon
+6-click on exit GROUP
+7-click SEND ",Manual,"text message Forward from member to another 
+exist group inside messanger ","text message Forward from member to another 
+exist group inside messanger successfully",Pass,p1,,
+61,"verify to forward photo message from member to another 
+inside messanger using search field","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on photo message to want Forward
+5- choose Forward icon
+6-click search field
+7-write name of member that want to send to him photo message
+6-click SEND to him when appear in search result
+",Manual,"photo message Forward from member to another 
+inside messanger using search field","photo message forward from member to another 
+inside messanger using search field successfully",Pass,p1,,
+62,"verify to forward photo message from member to another 
+inside messanger by create new Group to send","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on photo message to want Forward
+5- choose Forward icon
+6-click CREATE GROUP
+7-SELECT members of group
+6-click SEND 
+",Manual,"photo message Forward from member to another 
+inside messanger by create new Group to send","photo message Forward from member to another 
+inside messanger by create new Group to send Successfully",Pass,p1,,
+63,"verify to forward photo message from member to another 
+exist group inside messanger ","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on photo message to want Forward
+5- choose Forward icon
+6-click on exit GROUP
+7-click SEND ",Manual,"photo message Forward from member to another 
+exist group inside messanger ","photo message Forward from member to another 
+exist group inside messanger successfully",Pass,p1,,
+64,verify Calls feature that already record detailes history called,"1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-look to details calls that appear",Manual,"record all detailes calls
+ day,time calling,type of calling
+","Must record all detailes calls
+ day,time calling,type of calling",Pass,p1,,
+65,verify do voice call to member in messanger using Calls feature,"1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on audio button ",Manual, voice call done successfully, voice call done successfully,Pass,p1,,
+66,verify do video call to member in messanger using Calls feature,"1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on video button ",Manual,video call done Successfully, video call done successfully,Pass,p1,,
+67,navigate to open member profile using Calls feature,"1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on Profile button ",Manual,the open done,the open must done  successfully,Pass,p1,,
+68,verify to Mute  member on messenger  using Calls feature,"1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on Mute button ",Manual,the Mute done,the Mute done successfully,Pass,p1,,
+69,verify to send Message to member on messenger  using Calls feature,"1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on Message button ",Manual,the Message send successfully,the Message must send successfully,Pass,p1,,
+70,"verify to do Share contact of  member on messenger  using Calls 
+feature","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on Share contact button
+6-click SEND to member who want to share ",Manual,share done successfully,share must done succcessfully,Pass,p1,,
+71,Verify to Restrict specific member im messanger,"1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on Restrict button",Manual, Restrict done successfully, Restrict must done succcessfully,Pass,p1,,
+72,Verify to UnRestrict specific member im messanger,"1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on UnRestrict button",Manual, UnRestrict done successfully,UnRestrict must done succcessfully,Pass,p1,,
+73,"verify to Block member (Messages and calls) on messenger 
+ using Calls feature","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on Block button
+6-choose Block Messages and calls",Manual,"the block member done
+ successfully using Messages and calls","the block member must done
+successfully using Messages and calls",Pass,p1,,
+74,"verify to Block member (Block On Facebook) on messenger 
+ using Calls feature","1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on Block button
+6-choose Block on Facebook",Manual,"Block member done successfully
+ using(Block On Facebook) ","Block member must  done
+ successfully using(Block On Facebook) ",Pass,p1,,
+75,verify to Give feedback and report conversation via Report Feature,"1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on Report button
+6-choose Harassment
+7-choose SUBMIT REPORT",Manual,"feedback and report conversation
+done","feedback and report conversation
+must done",Pass,p1,,
+76,Verify to open chat head with specific member from Calls Feature,"1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on three dot on the above right side
+6-choose chat head
+",Manual,"chat head with specific member 
+from Calls Feature opned successfully","chat head with specific member
+ from Calls Feature must opned successfully",Pass,p1,,
+77,Verify to Delete conversation with specific member from Calls Feature,"1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on three dot on the above right side
+6-choose Delete conversation
+",Manual,"chat head with specific member 
+from Calls Feature Deleted successfully","chat head with specific member
+ from Calls Feature must deleted successfully",Pass,p1,,
+78,Verify to Report technical problem with specific member from Calls Feature,"1-Open the Facebook mobile application
+2-Click on Messanger Icon
+3-click on Calls Feature icon
+4- navigate to first member
+5-click on three dot on the above right side
+6-choose Report technical problem
+",Manual,"report technical problem done
+","no thing happen when click on
+report technical problem",bug,p1,,
+79,verify to do voice call with member in messanger,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on call icon appear on the above right of screen
+",Manual,the voice call done successfully,"the voice call must done
+ successfully",Pass,p1,,
+80,verify to do video call with member in messanger,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on video icon appear on the above right of screen
+",Manual,the video call done successfully,"the video call must done
+ successfully",Pass,p1,,
+81,"Verify choose Available member in messanger via pen image 
+to start conversation","1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to pen image
+4-write name of member want to navigate to him
+5- click on him when apear in result
+",Manual,"can choose Available member in messanger via pen image 
+to start conversation done successfully","can choose Available member in messanger via pen image 
+to start conversation must 
+done successfully",Pass,p1,,
+82,Verify more then one Available member in messanger via pen image to start conversation by click plus icon,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to pen image
+4-write name of member want to navigate to him
+5- click on him when apear in result
+6-click + icon to add another member
+7-write name of member want to navigate to him
+8- click on him when apear in result
+9-write ""hellow""
+10-click send icon",Manual,"choose done successfully
+and message send ","choose must done successfully and 
+message send",Pass,p1,,
+83,Verify choose exist Group in mesanger via pen image,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to pen image
+4-write name of group already created
+5- click on him when apear in result
+6-write messge""hellow""
+7-click send",Manual,send message to exsit group,"send message to exsit group
+must done successfully",Pass,p1,,
+84,Verify choose create anew group chat,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to pen image
+4-click on Create a new group chat
+5- select members of group
+7-click next
+8-write name of group""dream""
+9-click CRAETE BUTTON
+10-write""hellow ""message",Manual,the create done successfully,the create must done successfully,Pass,p1,,

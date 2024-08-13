@@ -1,0 +1,74 @@
+TCID,Summary,Action,types,Expected Results,Actual Result,Status,Priority,Requirement Traceability,Bug Traceability
+1,verify to write message in specific member then Delete it before send,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate in specific member chatting room
+4-tap in Type amessage field
+5-write""welcom""
+6-click ""x"" to delete message ",Manual,"the message not send 
+and deleted successfully","the message not send 
+and deleted successfully",Pass,p1,,
+2,verify to select message to replay then press x ,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate in specific member chatting room
+4-select message already sended
+5-choose Reply
+6-click ""x"" ",Manual,"the message deleted from 
+replay feature","the message deleted from 
+replay feature",Pass,p1,,
+3,"Verify to remove message from specific member  already 
+send and seen","1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate in specific member chatting room
+4-select message already sended
+5-choose More
+6-choose Remove
+7-click on""Remove from you",Manual,"the message selected deleted 
+from my conversation","the message selected deleted 
+from my conversation successfully",Pass,p1,,
+4,"Verify can delete motion from type a message in specific member
+before send it","1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on motion icon
+5-choose one of them
+6-click x ",Manual,"the motion deleted from 
+type amessage field and not send","the motion deleted from 
+type amessage field and not send
+successfully",Pass,p1,,
+5,"Verify to search about stickers by using Search stickers
+ with write invalid query","1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on motion icon
+5-choose Search stickers
+6-write "","" inside search field",Manual,"no motion appear
+No result found must appear","no motion appear
+No result found must appear",Pass,p1,,
+6,"verify to navigate to chatting room and type messga
+ then leave room befor send it","1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-tap on Type maeesage field
+5- write""welcom""
+6-leave chatting room",Manual,"when return again to the 
+same chat room ,the message wriiten ""welcom"" still appear","when return again to the 
+same chat room ,the message wriiten
+ ""welcom""must be still appear",Pass,p1,,
+7,record voice message than pause it then click to complete it then delete voice call,"1-Open the Facebook mobileapplication
+2-Click on Messanger Icon
+3-navigate to chatting room of member
+4-click on voice call icon
+5-start record 
+6-press pause icon
+7-press to complete the voice record
+8-press Delete the voice record
+",Manual,"1-when press pause:the
+ recoed stop
+2- when press to complete:the record voice
+completed
+3-when press Delete:the voice deleted","1-when press pause:the
+ recoed stop successfully
+2- when press to complete:the record voice
+completed successfully
+3-when press Delete:the voice deleted
+successfully",Pass,p1,,

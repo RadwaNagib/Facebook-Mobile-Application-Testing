@@ -1,0 +1,94 @@
+﻿TCID,Summary,Action,types,Expected Results,Actual Result,Status,Priority,Requirement Traceability,Bug Traceability
+1,"verify the artical post not send when user try to add post on his facebock page,then click back","1-Open his account on the
+ Facebook mobile application
+2-Click on""What's on your mind?"" text field
+3-add ""Welcom""on ""What's on your mind?""field
+4-press back twice via mobile key
+5-click Discard Post",Manual,"the post must be not posted 
+when press Discard post","the post not posted 
+when press Discard post",,,,
+2,"verify the photo post using Gallary not send when user try to add post on his facebock page,then click back","1-Open his account on the
+ Facebook mobile application
+2-Click on""What's on your mind?"" text field
+3-add photo from Gallery
+4-press back twice via mobile key
+5-click Discard Post",Manual,"the post must be not posted 
+when press Discard post","the post not posted 
+when press Discard post",,,,
+3,"verify the video post using Gallery not send when user try to add post on his facebock page,then click back","1-Open his account on the
+ Facebook mobile application
+2-Click on""What's on your mind?"" text field
+3-add video from Gallery
+4-press back twice via mobile key
+5-click Discard Post",Manual,"ensure the post not posted 
+when press Discard post","ensure the post not posted 
+when press Discard post",,,,
+4,"Verify user cannot let his posted appear to friends only without click ""Done"" on 
+the post audience after choose ""Friends""
+","1-Open his account on the
+ Facebook mobile application
+2-Click on""What's on your mind?"" text field
+3-add ""Welcom""on ""What's on your mind?""field
+4-press on ""public"" choose""Friends""
+5-press back arrow",Manual,"the post must be shard as public 
+audience not friends ","the post must be shard as public 
+audience not friends ",,,,
+5,"verify the image deleted from preparation post after click ""x""","1-Open his account on the
+ Facebook mobile application
+2-Click on""What's on your mind?"" text field
+3-press on ""Photo/video"" button
+4-choose image
+5-click xfrom preparation post",Manual,"the image deleted from 
+preparation post after click ""x""","the image deleted from 
+preparation post after click ""x""",,,,
+6,verify the Feeling motion deleted from preparation post after click back,"1-Open his account on the
+ Facebook mobile application
+2-Click on""What's on your mind?"" text field
+3-press on ""Feeling Motion"" button
+4-choose motion
+5-click back",Manual,"the feeling motion deleted
+ from preparation post","the feeling motion deleted
+ from preparation post",,,,
+7,Verify the post sent to specific album(empty album),"1-Open his account on the
+ Facebook mobile application
+2-Click on""What's on your mind?"" text field
+3-press on ""album"" button
+4-choose empty album
+5- write in post field""welcom""
+6-press ""Post"" button",Manual,"the post must appear only to 
+album that choose","the post  appear only to 
+album that choose",,,,
+8,"If the app is stopped at an unexpected time, user data should be saved
+ locally and available at start-up.","1-Open his account on the
+ Facebook mobile application
+2-Click on""What's on your mind?"" text field
+3-write""welcom friends""in post field
+4- close the facebook app
+5-after afew minuts(5 minutes)open facebook again",Manual,"when open my facebook app
+the post field must appear with""
+welcom friends""","when open my facebook app
+the post field appear with""
+welcom friends""",,,,
+9,"Does the facebook save the post content that under create befor mobile shutting down 
+","1-Open his account on the
+ Facebook mobile application
+2-Click on""What's on your mind?"" text field
+3-write""welcom friends""in post field
+4- shutdown the mobile
+5-after afew minuts(5 minutes)open Mobile again
+6-nafigate to facebook again",Manual,"when open my Mobile
+then nafigate to facebook app
+the post field must appear with""
+welcom friends""","when open my Mobile
+then nafigate to facebook app
+the post field appear with""
+welcom friends""",,,,
+10,"Check user not go live without click on 
+Go Live button","1-Open his account on the
+ Facebook mobile application
+2-Click on""What's on your mind?"" text field
+3-Press on Live Video button",Manual,"when open live video ,not 
+be live without press
+ ""Go Live"" button","when open live video ,not 
+be live without press
+ ""Go Live"" button",,,,

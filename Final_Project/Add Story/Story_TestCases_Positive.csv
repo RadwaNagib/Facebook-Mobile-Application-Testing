@@ -1,0 +1,1063 @@
+﻿TCID,Summary,Action,types,Expected Results,Actual Result,Status,Priority,Requirement Traceability,Bug Traceability
+1,Verify adding text with simple font,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose simple font
+4-write""welcom""
+5-click Share",Manual,"write""welcom"" in start
+ typing screen with simple font","write""welcom"" in start
+ typing screen with simple font",,,FR2:2.2  check user can add Text story,
+2,Verify adding text with clean font,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose clean font
+4-write""welcom""
+5-click Share",Manual,"write""welcom"" in start
+ typing screen with clean font","write""welcom"" in start
+ typing screen with clean font",,,FR2:2.2  check user can add Text story,
+3,Verify adding text with casual font,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose casual font
+5-write""welcom""
+6-click Share",Manual,"write""welcom"" in start 
+typing screen with casual font","write""welcom"" in start 
+typing screen with casual font",,,FR2:2.2  check user can add Text story,
+4,Verify adding text with Fancy font,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose Fancy font
+5-write""welcom""
+6-click Share",Manual,"write""welcom"" in start 
+typing screen with Fancy font","write""welcom"" in start 
+typing screen with Fancy font",,,FR2:2.2  check user can add Text story,
+5,Verify adding text with Heading font,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose Heading font
+5-write""welcom""
+6-click Share",Manual,"write""welcom"" in start 
+typing screen with Heading font","write""welcom"" in start 
+typing screen with Heading font",,,FR2:2.2  check user can add Text story,
+6,verify adding text with simple font and first color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose simple font
+5-click on color icon
+6-choose the first color
+",Manual,"write""welcom"" in start 
+typing screen with simple 
+font and with color that choosed","write""welcom"" in start 
+typing screen with simple 
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+7,verify adding text with simple font and second color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose simple font
+5-click on color icon
+6-choose the second color",Manual,"write""welcom"" in start 
+typing screen with simple 
+font and with color that choosed","write""welcom"" in start 
+typing screen with simple 
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+8,verify adding text with simple font and third color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose simple font
+5-click on color icon
+6-choose the third color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with simple 
+font and with color that choosed","write""welcom"" in start 
+typing screen with simple 
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+9,verify adding text with simple font and fourth color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose simple font
+5-click on color icon
+6-choose the fourth color",Manual,"write""welcom"" in start 
+typing screen with simple 
+font and with color that choosed","write""welcom"" in start 
+typing screen with simple 
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+10,verify adding text with simple font and fifth color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose simple font
+5-click on color icon
+6-choose the fifth color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with simple 
+font and with color that choosed","write""welcom"" in start 
+typing screen with simple 
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+11,verify adding text with clean font and first color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose clean font
+5-click on color icon
+6-choose the first color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with clean
+font and with color that choosed","write""welcom"" in start 
+typing screen with clean
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+12,verify adding text with clean font and second color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose clean font
+5-click on color icon
+6-choose the second color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with clean
+font and with color that choosed","write""welcom"" in start 
+typing screen with clean
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+13,verify adding text with clean font and third color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose clean font
+5-click on color icon
+6-choose the third color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with clean
+font and with color that choosed","write""welcom"" in start 
+typing screen with clean
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+14,verify adding text with clean font and fourth color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose clean font
+5-click on color icon
+6-choose the fourth color",Manual,"write""welcom"" in start 
+typing screen with clean
+font and with color that choosed","write""welcom"" in start 
+typing screen with clean
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+15,verify adding text with clean font and fifth color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose clean font
+5-click on color icon
+6-choose the fifth color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with clean
+font and with color that choosed","write""welcom"" in start 
+typing screen with clean
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+16,verify adding text with casual font and first color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose casual font
+5-click on color icon
+6-choose the first color",Manual,"write""welcom"" in start 
+typing screen with casual
+font and with color that choosed","write""welcom"" in start 
+typing screen with casual
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+17,verify adding text with casual font and second color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose casual font
+5-click on color icon
+6-choose the second color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with casual
+font and with color that choosed","write""welcom"" in start 
+typing screen with casual
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+18,verify adding text with casual font and third color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose casual font
+5-click on color icon
+6-choose the third color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with casual
+font and with color that choosed","write""welcom"" in start 
+typing screen with casual
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+19,verify adding text with casual font and fourth color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose casual font
+5-click on color icon
+6-choose the fourth color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with casual
+font and with color that choosed","write""welcom"" in start 
+typing screen with casual
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+20,verify adding text with casual font and fifth color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose casual font
+5-click on color icon
+6-choose the fifth color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with casual
+font and with color that choosed","write""welcom"" in start 
+typing screen with casual
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+21,verify adding text with Fancy font and first color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose Fancy font
+5-click on color icon
+6-choose the first color",Manual,"write""welcom"" in start 
+typing screen with casual
+font and with color that choosed","write""welcom"" in start 
+typing screen with casual
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+22,verify adding text with Fancy font and second color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose Fancy font
+5-click on color icon
+6-choose the second color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with casual
+font and with color that choosed","write""welcom"" in start 
+typing screen with casual
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+23,verify adding text with Fancy font and third color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose Fancy font
+5-click on color icon
+6-choose the third color",Manual,"write""welcom"" in start 
+typing screen with casual
+font and with color that choosed","write""welcom"" in start 
+typing screen with casual
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+24,verify adding text with Fancy font and fourth color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose Fancy font
+5-click on color icon
+6-choose the fourth color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with casual
+font and with color that choosed","write""welcom"" in start 
+typing screen with casual
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+25,verify adding text with Fancy font and fifth color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose Fancy font
+5-click on color icon
+6-choose the fifth color",Manual,"write""welcom"" in start 
+typing screen with casual
+font and with color that choosed","write""welcom"" in start 
+typing screen with casual
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+26,verify adding text with Headline font and first color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose Headline font
+5-click on color icon
+6-choose the First color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with Headline
+font and with color that choosed","write""welcom"" in start 
+typing screen with Headline
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+27,verify adding text with Headline font and second color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose Headline font
+5-click on color icon
+6-choose the second color",Manual,"write""welcom"" in start 
+typing screen with Headline
+font and with color that choosed","write""welcom"" in start 
+typing screen with Headline
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+28,verify adding text with Headline font and third color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose Headline font
+5-click on color icon
+6-choose the third color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with Headline
+font and with color that choosed","write""welcom"" in start 
+typing screen with Headline
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+29,verify adding text with Headline font and fourth color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose Headline font
+5-click on color icon
+6-choose the Fourth color",Manual,"write""welcom"" in start 
+typing screen with Headline
+font and with color that choosed","write""welcom"" in start 
+typing screen with Headline
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+30,verify adding text with Headline font and fifth color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose Headline font
+5-click on color icon
+6-choose the Fifth color
+7-click Share",Manual,"write""welcom"" in start 
+typing screen with Headline
+font and with color that choosed","write""welcom"" in start 
+typing screen with Headline
+font and with color that choosed",,,FR2:2.2  check user can add Text story,
+31,"verify when nafigate to story page then click on camera icon,
+nafigate to camera","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on camera icon
+4-click Share",Manual,"when nafigate to story page then click on camera icon,
+nafigate to camera ","when nafigate to story page then click on camera icon,
+nafigate to camera ",,,FR2:2.2  check user can add Text story,
+32,"verify when nafigate to story page then click ""x"",can back to 
+facabook home page
+","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click ""x""on the above lift
+side",Manual,back to facebook home page,back to facebook home page,,,FR2:2.2  check user can add Text story,
+33,"verify adding Music story without any additional text,
+lyrics or sticker","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click Share",Manual,the song must be add in story preparation page and play ,the song must be add in story preparation page and play ,,,FR2:2.3   check user add Music story,
+34,verify Discard story of song after add song on preparation screen,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click back from mobile
+6-click ""Discard story""",Manual,"delete  story of song from
+preparation screen
+back to Create story page","delete  story of song from
+preparation screen
+back to Create story page",,,FR2:2.3   check user add Music story,
+35,Verify click on  continue editing back me to last step,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click back from mobile
+6-click ""continue editing""",Manual,when click on  continue editing back me to last step in craeting story screen,when click on  continue editing back me to last step in craeting story screen,,,FR2:2.3   check user add Music story,
+36,verify adding Music story with facebook background,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-choose background icon
+6-choose color 
+7-click Share",Manual,"the color must added as 
+background with song ","the color must added as 
+background with song ",,,FR2:2.3   check user add Music story,
+37,verify adding Music story with Gallery background,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-choose background icon
+6-click on background from Gallery
+7-click Share",Manual,"the background choosed 
+from gallery must added
+in preparation story page with song","the background choosed 
+from gallery must added
+in preparation story page with song",,,FR2:2.3   check user add Music story,
+38,verify adding Music story with adding Stickers,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click on Stickers icon
+6-choose one ",Manual,"the sticker must added in preparation story page with song
+","the sticker must added in preparation story page with song
+",,,FR2:2.3   check user add Music story,
+39,verify can move sticker after added,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click on Stickers icon
+6-choose one 
+7-move sticker on sreen 
+8-click Share",Manual,"the sticker move smozlly in preparation story page with the
+song appearance
+","the sticker move smozlly in preparation story page with the
+song appearance
+",,,FR2:2.3   check user add Music story,
+40,verify adding Music story with adding Text,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click on adding text icon
+6-write""Ramadan karim"" with first font",Manual,"the text added in story
+preparation screen with
+song ","the text added in story
+preparation screen with
+song ",,,FR2:2.3   check user add Music story,
+41,verify adding Music story with change size of music logo,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click on Music icon
+6-nafigate to different logo 
+sizes with different option
+7-choose size
+8-click Share",Manual,"can nafigate to different logo 
+sizes with different option that appear in preparation story screen with
+song ","can nafigate to different logo 
+sizes with different option that appear in preparation story screen with
+song ",,,FR2:2.3   check user add Music story,
+42,verify adding Music story with adding Effects,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click onEffects icon
+6-nafigate to different effects option
+",Manual,"can nafigate to different
+ effects option that appear in preparation story screen with
+song ","can nafigate to different
+ effects option that appear in preparation story screen with
+song ",,,FR2:2.3   check user add Music story,
+43,"verify adding Music story with adding draw with different 
+size of drawing line","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click on Draw icon and start to drawing
+6-change size of draw line
+7-click Done button
+8-draw wave line
+9-click Share",Manual,"the draw appear with 
+size choosed in preparation story screen with
+song ","the draw appear with 
+size choosed in preparation story screen with
+song ",,,FR2:2.3   check user add Music story,
+44,verify adding Music story with adding draw with different color,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click on Draw icon 
+6-choose different color of 
+drawing line
+7-click Done button
+8-draw wave line
+9-click Share",Manual,"the draw appear with 
+color choosed in preparation story screen with
+song ","the draw appear with 
+color choosed in preparation story screen with
+song ",,,FR2:2.3   check user add Music story,
+45,verify adding Music story with adding draw and erase it,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click on Draw icon
+6-start to drawing
+7-choose eraser and erase it
+8-click Done button
+9-click Share",Manual,the line that draw must be erase,the line that draw must be erase,,,FR2:2.3   check user add Music story,
+46,verify adding Music story with adding draw and click Undo,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click on Draw icon
+6-start to drawing
+7-click Undo 
+7-click Done button
+8-click Share",Manual,the line that draw must be erase,the line that draw must be erase,,,FR2:2.3   check user add Music story,
+47,verify adding Music story with adding Tag People,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song
+5-click on tag people icon
+6-choose first friend appear
+7-click Done
+8- click Share",Manual,"the story added with
+ tag friend that choosed","the story added with
+ tag friend that choosed",,,FR2:2.3   check user add Music story,
+48,verify adding Music story with adding Privacy,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Privacy""icon
+4-choose public privacy
+5-click save
+6-click back arrow
+7-click Share",Manual,"the story added with
+public privacy
+ that choosed","the story added with
+public privacy
+ that choosed",,,FR2:2.3   check user add Music story,
+49,verify adding Music story with LYRICS and normal font ,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-fonts option appear in screen
+7-choose normal font",Manual,"the song lyric added in 
+preparation screen with
+normal font","the song lyric added in 
+preparation screen with
+normal font",,,FR2:2.3   check user add Music story,
+50,verify adding Music story with LYRICS and italic font,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-fonts option appear in screen
+7-choose italic font
+8-click Done
+9-click Share",Manual,"the song lyric added in 
+preparation screen with
+italic font","the song lyric added in 
+preparation screen with
+italic font",,,FR2:2.3   check user add Music story,
+51,verify adding Music story with LYRICS and bold,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-fonts option appear in screen
+7-choose Bold font
+8-click Done
+9-Click Share",Manual,"the song lyric added in 
+preparation screen with
+bold font","the song lyric added in 
+preparation screen with
+bold font",,,FR2:2.3   check user add Music story,
+52,verify adding Music story with LYRICS and with change size of music logo,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-nafigate between different
+ logo sizes icons
+of song
+",Manual,"1-the lyric song disappear
+2-the logo of song changed 
+when nafigate between different
+ logo sizes icons
+of song","1-the lyric song disappear
+2-the logo of song changed 
+when nafigate between different
+ logo sizes icons
+of song",,,FR2:2.3   check user add Music story,
+53,"verify adding Music story with LYRICS and normal font
+including first part of song(choose first star) ","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on first star
+7-choose normal font
+8-click Done
+9-click Share",Manual,"the lyric song in first star 
+appear with normal font
+and the story  share","the lyric song in first star 
+appear with normal font
+and the story  share",,,FR2:2.3   check user add Music story,
+54,"verify adding Music story with LYRICS and italic font 
+including first part of song(choose first star) ","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on first star
+7-choose italic font
+8-click Done
+9-click Share",Manual,"the lyric song in first star 
+appear with italic font
+and the story  share","the lyric song in first star 
+appear with italic font
+and the story  share",,,FR2:2.3   check user add Music story,
+55,"verify adding Music story with LYRICS and bold 
+including first part of song(choose first star) ","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on first star
+7-choose bold font
+8-click Done
+9-click Share",Manual,"the lyric song in first star 
+appear with bold font
+and the story  share","the lyric song in first star 
+appear with bold font
+and the story  share",,,FR2:2.3   check user add Music story,
+56,verify adding Music story with LYRICS and with change size of music logo including first part of song(choose first star) ,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on first star
+7-nafigate between different
+ logo sizes icons
+of song
+8-click Done
+9-click Share",Manual,"1-the lyric song disappear
+2-the logo of song changed 
+when nafigate between different
+ logo sizes icons
+of song","1-the lyric song disappear
+2-the logo of song changed 
+when nafigate between different
+ logo sizes icons
+of song",,,FR2:2.3   check user add Music story,
+57,"verify adding Music story with LYRICS and normal font
+including second part of song(choose second star) ","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on second star
+7-choose Normal font
+8-click Done
+9-click Share",Manual,"the lyric song in second star 
+appear with Normal font
+and the story  share","the lyric song in second star 
+appear with Normal font
+and the story  share",,,FR2:2.3   check user add Music story,
+58,"verify adding Music story with LYRICS and italic font 
+including second part of song(choose second star) ","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on second star
+7-choose italic font
+8-click Done
+9-click Share",Manual,"the lyric song in second star 
+appear with italic font
+and the story  share","the lyric song in second star 
+appear with italic font
+and the story  share",,,FR2:2.3   check user add Music story,
+59,"verify adding Music story with LYRICS and bold 
+including second part of song(choose second star) ","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on second star
+7-choose bold font
+8-click Done
+9-click Share",Manual,"the lyric song in second star 
+appear with bold font
+and the story  share","the lyric song in second star 
+appear with bold font
+and the story  share",,,FR2:2.3   check user add Music story,
+60,verify adding Music story with LYRICS and with change size of music logo including second part of song(choose second star) ,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on second star
+7-nafigate between different
+ logo sizes icons
+of song",Manual,"1-the lyric song disappear
+2-the logo of song changed 
+when nafigate between different
+ logo sizes icons
+of song","1-the lyric song disappear
+2-the logo of song changed 
+when nafigate between different
+ logo sizes icons
+of song",,,FR2:2.3   check user add Music story,
+61,"verify adding Music story with LYRICS and normal font
+including third part of song(choose third star) ","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on third star
+7-choose normal font
+8-click Done
+9-click Share",Manual,"the lyric song in third star 
+appear with normal font
+and the story  share","the lyric song in third star 
+appear with normal font
+and the story  share",,,FR2:2.3   check user add Music story,
+62,"verify adding Music story with LYRICS and italic font 
+including third part of song(choose third star) ","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on third star
+7-choose italic font
+8-click Done
+9-click Share",Manual,"the lyric song in third star 
+appear with italic font
+and the story  share","the lyric song in third star 
+appear with italic font
+and the story  share",,,FR2:2.3   check user add Music story,
+63,"verify adding Music story with LYRICS and bold 
+including third part of song(choose third star) ","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on third star
+7-choose bold font
+8-click Done
+9-click Share",Manual,"the lyric song in third star 
+appear with italic font
+and the story  share","the lyric song in third star 
+appear with italic font
+and the story  share",,,FR2:2.3   check user add Music story,
+64,verify adding Music story with LYRICS and with change size of music logo including third part of song(choose third star) ,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on third star
+7-nafigate between different
+ logo sizes icons
+of song
+8-click Done
+9-click Share",Manual,"1-the lyric song disappear
+2-the logo of song changed 
+when nafigate between different
+ logo sizes icons
+of song","1-the lyric song disappear
+2-the logo of song changed 
+when nafigate between different
+ logo sizes icons
+of song",,,FR2:2.3   check user add Music story,
+65,verify adding Music story with LYRICS and add stickers,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-clickon Sticker icon
+7-choose heart sticker
+9-click Share button",Manual,"the sticker added on sreen with lyric song
+and can move it aroud screen","the sticker added on sreen with lyric song
+and can move it aroud screen",,,FR2:2.3   check user add Music story,
+66,verify adding Music story with LYRICS and add Text,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on text icon
+7-write""ramadan karim
+9-click Share button",Manual,"the text added on sreen with lyric song
+","the text added on sreen with lyric song
+",,,FR2:2.3   check user add Music story,
+67,"verify adding Music story with LYRICS and add song logo
+(Music)","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on Music icon
+7-click Share button",Manual,"the logo of song must 
+appear in preparation 
+screen with lyric song","the logo of song must 
+appear in preparation 
+screen with lyric song",,,FR2:2.3   check user add Music story,
+68,verify adding Music story with LYRICS and add Effects,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on effects icon
+7-choose third effect
+7-click Share button",Manual,"the effect choosed 
+appear in preparation 
+screen with lyric song","the effect choosed 
+appear in preparation 
+screen with lyric song",,,FR2:2.3   check user add Music story,
+69,"verify adding Music story with LYRICS and add 
+Background from facebook","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on Background icon
+7-choose Background from facebook",Manual,"the background choosed 
+must added
+in preparation story page with song","the background choosed 
+must added
+in preparation story page with song",,,FR2:2.3   check user add Music story,
+70,verify adding Music story with LYRICS and add background from Gallery,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on Background icon
+7-choose Background from Gallery
+8-tab to screen
+9-click Share",Manual,"the background choosed from gallery
+must added
+in preparation story page with song","the background choosed from gallery
+must added
+in preparation story page with song",,,FR2:2.3   check user add Music story,
+71,verify adding Music story with LYRICS and add Draw,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with LYRIC
+5-click on mobile screen
+6-click on Draw icon
+7-start to draw in screen
+8-clcik Done
+9-click Share",Manual,"the drawing appear in
+ screen with lyric song ","the drawing appear in
+ screen with lyric song ",,,FR2:2.3   check user add Music story,
+72,verify adding Music story with LYRICS andTag People,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music category
+4-click on first image song with lyric option
+5-click on tag people icon
+6-choose first friend appear
+7-click Done
+8- click Share",Manual,"the story added with
+ tag friend that choosed","the story added with
+ tag friend that choosed",,,FR2:2.3   check user add Music story,
+73,verify Green Screen with scences,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Scenses
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click Share",Manual,"the image appear with 
+last position done","the image appear with 
+last position done",,,"FR2:2.4	  check user can add Green story",
+74,verify Green screen with Camera roll,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Camera roll
+5-click on first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click Share",Manual,"the image appear with 
+last position done","the image appear with 
+last position done",,,"FR2:2.4	  check user can add Green story",
+75,verify saved Green Screen with scences ,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Scenses
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click Saved icon
+9-click Share",Manual,"the image shard with last
+possitiod done and saved in mobile","the image shard with last
+possitiod done and saved in mobile",,,"FR2:2.4	  check user can add Green story",
+76,verify Privacy options with Green screen and with scences,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Scenses
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click Privacy option icon
+10-choose public
+11-click Share",Manual,"the image shard with last
+possitiod done with public privacy","the image shard with last
+possitiod done with public privacy",,,"FR2:2.4	  check user can add Green story",
+77,verify Green Screen with choose scences and add music,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Scenses
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on Music icon
+10-choose song
+11-click Share",Manual,"the image shard with last
+possitiod done with music that added","the image shard with last
+possitiod done with music that added",,,"FR2:2.4	  check user can add Green story",
+78,verify Green Screen with choose scences and add stickers,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Scenses
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on Stickers icon
+10-choose Sticker
+11-click share",Manual,"the image shard with last
+possitiod done with sticker that added","the image shard with last
+possitiod done with sticker that added",,,"FR2:2.4	  check user can add Green story",
+79,verify Green Screen with choose scences and add text,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Scenses
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on Text icon
+10-write""Ramadan Karim""
+11-click share",Manual,"the image shard with last
+possitiod done with Text that added","the image shard with last
+possitiod done with Text that added",,,"FR2:2.4	  check user can add Green story",
+80,verify Green Screen with choose scences and add Draw,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Scenses
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on add Draw icon
+10-draw wave lines
+11-click share",Manual,"the image shard with last
+possitiod done with wave draw that added","the image shard with last
+possitiod done with wave draw that added",,,"FR2:2.4	  check user can add Green story",
+81,verify Green Screen with choose scences and add Effects,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Scenses
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on add Effects icon
+10-choose effect
+11-click share",Manual,"the image shard with last
+possitiod done with effect that added","the image shard with last
+possitiod done with effect that added",,,"FR2:2.4	  check user can add Green story",
+82,verify Green Screen with choose scences and add tag people,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Scenses
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on add Tag People icon
+10-choose friend
+11-click Done
+12-click share",Manual,"the image shard with last
+possitiod done with appear name of friend that added","the image shard with last
+possitiod done with appear name of friend that added",,,"FR2:2.4	  check user can add Green story",
+83,verify Green Screen with choose scences and add Enhance,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Scenses
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on Enhance icon
+10-move image and text on preparation shared screen
+11-click share",Manual,"the moves(enhance)saved
+and shard","the moves(enhance)saved
+and shard",,,"FR2:2.4	  check user can add Green story",
+84,verify saved Green Screen with Camera roll ,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Camera roll
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click Saved icon
+9-click Share",Manual,"the image shard with last
+possitiod done and saved in mobile","the image shard with last
+possitiod done and saved in mobile",,,"FR2:2.4	  check user can add Green story",
+85,verify Privacy options with Green screen and with Camera roll ,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Camera roll
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click Privacy option icon
+10-choose public
+11-click Share",Manual,"the image shard with last
+possitiod done with public privacy","the image shard with last
+possitiod done with public privacy",,,"FR2:2.4	  check user can add Green story",
+86,verify Green Screen with choose Camera roll  and add music,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose  Camera roll
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on Music icon
+10-choose song",Manual,"the image shard with last
+possitiod done with music that added","the image shard with last
+possitiod done with music that added",,,"FR2:2.4	  check user can add Green story",
+87,verify Green Screen with choose Camera roll  and add stickers,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Camera roll
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on Stickers icon
+10-choose Sticker
+11-click share",Manual,"the image shard with last
+possitiod done with sticker that added","the image shard with last
+possitiod done with sticker that added",,,"FR2:2.4	  check user can add Green story",
+88,verify Green Screen with choose Camera roll  and add text,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Camera roll
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on Text icon
+10-write""Ramadan Karim""
+11-click share",Manual,"the image shard with last
+possitiod done with Text that added","the image shard with last
+possitiod done with Text that added",,,"FR2:2.4	  check user can add Green story",
+89,verify Green Screen with choose Camera roll  and add Draw,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Camera roll
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on add Draw icon
+10-draw wave lines
+11-click share",Manual,"the image shard with last
+possitiod done with wave draw that added","the image shard with last
+possitiod done with wave draw that added",,,"FR2:2.4	  check user can add Green story",
+90,verify Green Screen with choose Camera roll and add Effects,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose camera roll
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on add Effects icon
+10-choose effect
+11-click share",Manual,"the image shard with last
+possitiod done with effect that added","the image shard with last
+possitiod done with effect that added",,,"FR2:2.4	  check user can add Green story",
+91,verify Green Screen with choose Camera roll  and add tag people,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Camera roll
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on add Tag People icon
+10-choose friend
+11-click Done
+12-click share",Manual,"the image shard with last
+possitiod done with appear name of friend that added","the image shard with last
+possitiod done with appear name of friend that added",,,"FR2:2.4	  check user can add Green story",
+92,verify Green Screen with choose Camera roll  and add Enhance,"1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on ""Green Screen""
+4-choose Camera roll
+5-choose first option
+6-click Done button
+7-click on Green circle
+8-can Move image smozlly
+9-click on Enhance icon
+10-move image and text on preparation shared screen
+11-click share",Manual,"the moves(enhance)saved
+and shard","the moves(enhance)saved
+and shard",,,"FR2:2.4	  check user can add Green story",

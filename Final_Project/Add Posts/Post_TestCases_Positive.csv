@@ -1,0 +1,836 @@
+﻿TCID,Summary,Action,types,Expected Results,Actual Result,Status,Priority,Requirement Traceability,Bug Traceability
+1,Verify artical post only,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-Write article post
+4-press post",Manual,"the post must be appear
+in my account facebook 
+with public audience","the post be appear
+in my account facebook 
+with public audience",,,,
+2,Verify artical post with select background color,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on the Background colour button
+4-nafigate to all backgrounds that appears and choose one of them
+5-Write article post
+6-press post",Manual,"the new background appear
+on the post field after clicking on it","the new background appear
+on the post field after clicking on it",,,,
+3,Verify artical post with select layout from gallery,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on left Green button
+4-choose layout from your Gallery
+5-Write article post
+6-press post",Manual,"1-imags from the Gellary
+must appear
+2-the layout selected must be appear on the post field","1-imags from the Gellary
+must appear
+2-the layout selected must be appear on the post field",,,,
+4,Verify artical post with select multiple layout from gallery with Classic layout,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on left Green button
+4-click on ""Select Multiple""button
+5-choose three layout from gallery
+6-click next
+7-choose Classic layout
+8-Write article post
+9-press post",Manual,muliple images selected must be appear on the post field with classic layout,muliple images selected  appear on the post field with classic layout,,,,
+5,Verify artical post with select multiple layout from gallery with add columns layout,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on left Green button
+4-click on ""Select Multiple""button
+5-choose three layout from gallery
+6-click next
+7-choose Columns layout
+8-Write article post
+9-press post",Manual,muliple images selected must be appear on the post field with Column layout,muliple images selected  appear on the post field with Column layout,,,,
+6,Verify artical post with select multiple layout from gallery with add Banner layout,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on left Green button
+4-click on ""Select Multiple""button
+5-choose three layout from gallery
+6-click next
+7-choose Banner layout",Manual,muliple images selected must be appear on the post field with Banner layout,muliple images selectede appear on the post field with Banner layout,,,,
+7,Verify artical post with select multiple layout from gallery with add Frame layout,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on left Green button
+4-click on ""Select Multiple""button
+5-choose three layout from gallery
+6-click next
+7-choose Frame layout
+8-Write article post
+9-press post",Manual,muliple images selected must be appear on the post field with Frame layout,muliple images selected  appear on the post field with Frame layout,,,,
+8,Verify artical post with Tag friends only,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-Click on Tag Friends
+4-Select friend/friends
+5-write article post
+6-press post",Manual,"the post must be appear
+in the selected friend account","the post  appear
+in the selected friend account",,,,
+9,Verify artical post with Tag friends and adding BackGround,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-Click on Tag Friends
+4-Select friend/friends
+5-press back arrow
+6-write post
+7-choose backGroung
+8-press post",Manual,"the post must be appear
+in the selected friend account with add BackGround","the post appear
+in the selected friend account with add BackGround",,,,
+10,Verify artical post with Tag friends By using Search Field,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-Click on Tag Friends
+4-write name of friend in search field
+5-select the wanted name from result
+6-press back arrow
+7-write article post
+8-press post",Manual,"the post must be appear
+in the selected friend account","the post appear
+in the selected friend account",,,,
+11,Verify artical post with Tag friends and adding FEELINGS/ ACTIVITY,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-Click on Tag Friends
+4-Select friend/friends
+5-add feeling/activity
+6-write article post
+7-press post",Manual,"the post must be appear
+in the selected friend account
+","the post appear
+in the selected friend account
+",,,,
+12,Verify artical post with Tag people/friends and adding current location,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-Click on Tag Friends
+4-Select friend/friends
+5-click on current location
+6-write post
+7-press post",Manual,"the post must be appear
+in the selected friend account
+in current location","the post appear
+in the selected friend account
+in current location",,,,
+13,Verify artical post with Tag people/friends and add location from suggestions ,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-Click on Tag Friends
+4-Select friend/friends
+5-choose ""15 may city"" from suggestions
+6-write post
+7-press post",Manual,"the post must be appear
+in the selected friend account
+in suggestion location","the post appear
+in the selected friend account
+in suggestion location",,,,
+14,Verify artical post with Tag people/friends and search from location,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-Click on Tag Friends
+4-Select friend/friends
+5-Write""Helwan""in search field to search from specific location
+6-write post
+7-press post",Manual,"the post must be appear
+in the selected friend account
+in Helwan    ","the post appear
+in the selected friend account
+in Helwan    ",,,,
+15,verify artical post with add location (current location),"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on location icon
+4-choose current location
+5-write post
+6-press post",Manual,"the post must be appear
+in friend account
+in current location","the post appear
+in friend account
+in current location",,,,
+16,verify artical post with add location (use suggestions),"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on location icon
+4-choose ""15 may city"" location from suggestions
+5-Write article post
+6-press post",Manual,"the post must be appear
+in friend account
+in 15 may city","the post appear
+in friend account
+in 15 may city",,,,
+17,verify artical post with add location (use search field to Search from location),"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on location icon
+4-Write""Helwan""in search field to search from specific location
+5-Write article post
+6-press post",Manual,"the post must be appear
+in friend account
+in Helwan city","the post appear
+in friend account
+in Helwan city",,,,
+18,Verify the user can add a post with a single photo only,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on photo/video
+4-select photo
+5-press post",Manual,the photo posted successfully,the photo posted successfully,,,,
+19,Verify the user can add a post with a single photo with effects,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on photo/video
+4-select photo
+5-Nafigate among effects and choose one of them
+6-press post",Manual,"photo posted with effect
+","photo posted with effect
+",,,,
+20,Verify the user can add a post with a single photo with filters,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on photo/video
+4-select photo
+5-Nafigate among Filters and choose one of them
+6-press post",Manual,"photo posted with Filter
+","photo posted with Filter
+",,,,
+21,Verify the user can add a post with a single photo using camera,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on photo/video button
+4-click on camera image on the above right
+side
+4-take aphoto by camera 
+5- agree to post it by press Done button
+6-press post",Manual,"the post image done 
+successfully","the post image done 
+successfully",,,,
+22,"Verify the user can add a post with a single photo using camera with add
+Effects/Flters","1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on photo/video button
+4-click on camera image on the above right
+side
+4-take aphoto by camera 
+5- agree to post it by press Done button
+6-Choose effect/filter
+7-press post",Manual,"the post done 
+successfully with add Effect/Filter","the post done 
+successfully with add Effect/Filter",,,,
+23,Verify the user can add a post with a single photo using photo gallery,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on photo post
+4-choose photo from gallery
+5-press post",Manual,"the post done 
+successfully with single photo","the post done 
+successfully with single photo",,,,
+24,Verify the user can add a post with a single photo using photo gallery with add Effect/filer,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on photo post
+4-choose photo from gallery
+5-Choose effect/filter
+5-press post",Manual,"post done successfully
+with add Effect/Filter","post done successfully
+with add Effect/Filter",,,,
+25,Verify the user can add a post with multiple photos using photo gallery,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on photo post
+4-choose multiple photos from gallery
+5- press Done button
+6-Press Post",Manual,"the post done 
+successfully","the post done 
+successfully",,,,
+26,"Verify the user can add a post with multiple photos using photo gallery and add layout(column,banner,frame)","1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on photo post
+4-choose multiple photos from gallery
+5- press Done button
+6-choose layout(banner)
+6-Press Post",Manual,"post done successfully
+with banner layout","post done successfully
+with banner layout",,,,
+27,verify after user add a post with single photo using camera then do crop (Rotate),"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on photo post
+4-use camera to take aphoto
+5-click drop
+6-do Rotate to photo
+7-press done
+8-press done
+9-press post",Manual,"post done successfully
+by Rotate photo","post done successfully
+by Rotate photo",,,,
+28,verify after user add a post with single photo using camera then do crop (Resize),"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind"" 
+3-click on photo post
+4-use camera to take aphoto
+5-click drop
+6-do Resize to photo
+7-press done
+8-press done
+9-press post",Manual,"post done successfully 
+by Resize photo ","post done successfully 
+by Resize photo ",,,,
+29,Verify the user can add a post with a single video using camera,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on photo/video
+4-click on the of camera image
+5-start the video record
+6-after finish record press done
+7-press post ",Manual,the video posted successfully,the video posted successfully,,,,
+30,Verify the user can add a post with a single video using gallery,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on photo/video
+4-choose video from Gallery
+5-press post",Manual,the video posted successfully,the video posted successfully,,,,
+31,"Verify the user can add a post with two videos (using camera ,gallery)","1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on photo/video
+4-start the video record
+5-after finish record press done3-click on photo/video
+6-choose video from Gallery
+7-press post
+",Manual,the videos posted successfully,the videos posted successfully,,,,
+32,"Verify the user can add a post with two videos (using camera ,gallery)
+then add(text,audio,stickers,Effects,save)","1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on photo/video
+4-start the video record
+5-after finish record press done3-click on photo/video
+6-choose video from Gallery
+7-press edit 
+8-try to add add(text,audio,stickers,Effects,save)
+8-press post",Manual,the videos posted successfully,the videos posted successfully,,,,
+33,Veriyf the user can add a post with muliple videos using gallery,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on photo/video
+4-click on the of camera image
+5-choose videos from Gallery
+7-press edit 
+8-press post",Manual,the videos posted successfully,the videos posted successfully,,,,
+34,"Veriyf the user can add a post with muliple videos using gallery
+then add(text,audio,stickers,Effects,save)","1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on photo/video
+4-click on the of camera image
+5-choose videos from Gallery
+7-press edit 
+8-try to add add(text,audio,stickers,Effects,save)
+9-press post",Manual,"the videos posted successfully with add add(text,audio,stickers,Effects,save)
+","the videos posted successfully with add add(text,audio,stickers,Effects,save)
+",,,,
+35,verify after user add a post with single video using camera can add effects and filters,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on photo/video
+4-start the video record
+5-after finish record press done
+6-try to add effects and filters
+",Manual,"the videos posted successfully with add effects and filters
+","the videos posted successfully with add effects and filters
+",,,,
+36,verify user can add mix of photos and videos using gallery,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on photo/video
+4-choose videos/photo from Gallery
+5-press Next 
+6-press post",Manual,"the videos posted successfully
+from Gallery","the videos posted successfully
+from Gallery",,,,
+37,verify user can create live video  By using back camera,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-press Live video
+4-press Go Live with back camera",Manual,"go live successfully with 
+back camera","go live successfully with 
+back camera",,,,
+38,verify user can create live video By using Selfy camera,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-press Live video
+4-press Go Live with selfy camera",Manual,"go live successfully with
+Selfy camera","go live successfully with
+Selfy camera",,,,
+39,verify user can create live video with add Description,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-press Live video
+4-press Tap to add a description
+5-write""Welcom""
+6-press Done button
+7-press Go Live",Manual,"go live successfully with 
+the description""Welcom""","go live successfully with 
+the description""Welcom""",,,,
+40,Verfiy user can create live video with effects/gif,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-press Live video
+4-press on image of effects/gif to added
+5-press Go Live",Manual,"go live successfully with added effects/gif 
+","go live successfully with added effects/gif 
+",,,,
+41,Verfiy post via live video with Invite guests to join on video,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-press Live video
+4-press on Invite guests icon
+5- select from friends/followers
+6-press done button
+7-press Go Live",Manual,"go live successfully with
+guest invitted","go live successfully with
+guest invitted",,,,
+42,Verfiy user can create live videoin addition to Invite guests to join on video with using Search ,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-press Live video
+4-press on Invite guests icon
+5- write inside search field ""Tasneem""
+6-press done button
+7-press Go Live",Manual,"go live successfully with
+guest invitted by using search
+field","go live successfully with
+guest invitted by using search
+field",,,,
+43,Verfiy user can create live video with create new poll,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-press Live video
+4- press poll icon
+5-add question in """"ask a question
+6-add in option 1
+7-add in option 2
+8-set voting time
+9-press Save Poll button
+10-press Go Live",Manual,"go live successfully with
+poll created
+","go live successfully with
+poll created
+",,,,
+44,Verify user can create live video in addition to add description and feeling/Activity,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-press Live video
+4-add feeling/Activity",Manual,"go live successfully with
+add feeling/Activity","go live successfully with
+add feeling/Activity",,,,
+45,Verify user can create live video then add it to his posts,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-press Live video
+4-click on Add to your post
+5-add description
+6-press Done button
+7-press Go Live",Manual,"go live successfully and add 
+video in my posts","go live successfully and add 
+video in my posts",,,,
+46,Verify user can create live video and add location in his post,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-press Live video
+4-press check in
+5-choose location from suggestions or saerch from it
+6-add location
+7-press Go Live",Manual,"go live successfully with
+ location selected","go live successfully with
+ location selected",,,,
+47,Verify user can create live video and bring some friends to join on video,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-press Live video
+4-press Bring some friends button
+5-choose Friends and followers or search do Search from specific friend
+",Manual,"go live successfully with 
+friend selected","go live successfully with 
+friend selected",,,,
+48,Verify all Categories of music inside Browsers ,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on the ""Browser"" link button
+",Manual,"all categories of Music inside 
+of Browser link","all categories of Music inside 
+of Browser link",,,,
+49,Verify post with adding Music from Birthday Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on Birthday link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","the song  start to play
+the song added in the post field",,,,
+50,Verify post with adding Music from Date night Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on Date night link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","the song  start to play
+the song added in the post field",,,,
+51,Verify post with adding Music from Family Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on Family link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song  added in the post field",,,,
+52,Verify post with adding Music from love Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on love link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song  added in the post field",,,,
+53,Verify post with adding Music from Morning Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on Morning link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song added in the post field",,,,
+54,Verify post with adding Music from R&B and soul Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on  R&B and soul link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song  added in the post field",,,,
+55,Verify post with adding Music from Pop Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on Pop link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song  added in the post field",,,,
+56,Verify post with adding Music from Hip-hop Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on Hip-hop link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song  added in the post field",,,,
+57,Verify post with adding Music from Rock Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on Rock link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song  added in the post field",,,,
+58,Verify post with adding Music from Country Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on Country link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song  added in the post field",,,,
+59,Verify post with adding Music from Bright Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on Bright link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song  added in the post field",,,,
+60,Verify post with adding Music from Dreamy Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on Dreamy link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song  added in the post field",,,,
+61,Verify post with adding Music from GroovyCategory,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on  Groovy link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song  added in the post field",,,,
+62,Verify post with adding Music from Peaceful Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on Peaceful link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song  added in the post field",,,,
+63,Verify post with adding Music from Sentimental Category,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on the Music Link Button
+4-click on Sentimental link
+5-click on play button of song
+6-click on link of song name
+7-click on post link",Manual,"5-the song must be start to play
+6-the song must be added in the post field","5-the song  start to play
+6-the song  added in the post field",,,,
+64,verify user can add post with public audience,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on Public icon
+4-choose public audience
+5-click Done button
+6-write your post in post field
+7-click post button",Manual,"the post must appear in any
+ one on or off Facebook","the post  appear in any
+ one on or off Facebook",,,,
+65,verify add posts with friends audience,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on Public icon
+4-choose Friends audience
+5-click Done button
+6-write your post in post field
+7-click post button",Manual,"the post must appear in my 
+friends on facebook only","the post  appear in my 
+friends on facebook only",,,,
+66,add posts with friends except,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on Friends expect…  icon
+4-choose Friends to except them from your post
+5-click Done button
+6-write your post in post field
+7-click post button",Manual,"the post must not appear to 
+the excepted Friends and the
+post appear for the rest of the friends","the post  not appear to 
+the excepted Friends and the
+post appear for the rest of the friends",,,,
+67,Verify Search field to search from friends to except them from your post appear,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on Friends expect…  icon
+4-write Friends Name in search field to search on them 
+5-choose friends from the search result
+6-Click done button
+6-write your post in post field
+7-click post button",Manual,"the post must not appear to 
+the excepted Friends,and the
+post appear for the rest of the friends","the post  not appear to 
+the excepted Friends,and the
+post appear for the rest of the friends",,,,
+68,add posts appear only me,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-click on Friends expect…  icon
+4-choose Only me
+5-click Done button
+6-write your post in post field
+7-click post button",Manual,"the post must appear to
+ me only","the post  appear to
+ me only",,,,
+69,Verify user can add posts appear that to choose album,"1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3-choose Album Name
+4-click on it
+6-write your post in post field
+7-click post button
+",Manual,"the post must appear in 
+Friend's album
+","the post  appear in 
+Friend's album
+",,,,
+70,"Verify user can Create New Album ,then add posts that appearr only 
+inside created album","1-Open the Facebook mobileapplication
+2-Click on ""what's on your mind""
+3- click on Create New Album
+4-Write album name
+5-choose audience of album(Public)
+6-click on ""Create"" button
+7-write your post in post field
+8-click post button",Manual,"the post must appear in 
+Friend's album that created","the post appear in 
+Friend's album that created",,,,
+71,verify that i can edit in my post after posted,"1-Open the Facebook mobileapplication
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on ""share"" link
+6-on the text of say something about this 
+write""Great Post""
+6-click on ""Share now"" button ",Manual,"the post must be shared again with the new text that 
+have been written
+","the post  shared again with the new text that 
+have been written
+",,,,
+72,verify that i can remove my post from saved item,"1-Open the Facebook mobileapplication
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on the three dot on the above right side of the post
+6-click on ""Unsaved post""",Manual,remove the form(),remove the form(),,,,
+73,Verify user can add comment on my posts,"1-Open the Facebook mobileapplication
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on ""Comment"" link button
+6-add comment in the post
+7-click end",Manual,"the ""comment"" must added 
+in the post","the ""comment""  added 
+in the post",,,,
+74,Verify user can add like on my posts,"1-Open the Facebook mobileapplication
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on ""Like"" link button
+6-add like in the post",Manual,"the ""Like"" must added 
+in the post","the ""Like""  added 
+in the post",,,,
+75,Verify user can share my post again with the same Form,"1-Open the Facebook mobileapplication
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on ""Share"" link button
+6-click ""Share Now""",Manual,"the post must be shared again
+with the same Form","the post  shared again
+with the same Form",,,,
+76,Verify user can edit privacy on my posts,"1-Open the Facebook mobileapplication
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on the three dot on the above right side of the post
+6-click on ""Edit Privacy""
+7-select ""Friends""",Manual,"the post privacy changed from
+ public to friends only","the post privacy changed from
+ public to friends only",,,,
+77,Verify user can do save post on my video posts in new collection,"1-Open the Facebook mobileapplication
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on the three dot on the above right side of the post
+6-click on ""save video""
+7-click on ""New collection""
+8-enter name of new collection""New""
+9-click ""CREARTE"" button",Manual,"the video must be add 
+in ""New"" collection","the video  add 
+in ""New"" collection",,,,
+78,Verify that i can do turn off notifications for my post,"1-Open the Facebook mobileapplication
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on the three dot on the above right side of the post
+6-click on""Turn off notifications for this post"" ",Manual,"cannot any one t add Notification 
+on this post","cannot any one t add Notification 
+on this post",,,,
+79,"Veriftha I can do copy link of my post,verify its correct in past place","1-Open the Facebook mobileapplication
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on the three dot on the above right side of the post
+6-click on ""Copy link""button",Manual,"when insert the link in 
+google ,the link nafigate to 
+the same video(the correct video)","when insert the link in 
+google ,the link nafigate to 
+the same video(the correct video)",,,,
+80,Verify that I can share my post in Message,"1-Open the Facebook mobileapplication
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on the three dot on the above right side of the post
+6-click on ""Share"" link
+7-click on ""send in a message""button
+8-select first name
+9-click ""Send"" buttton",Manual,"the post must appear to 
+selected name in messanger","the post  appear to 
+selected name in messanger",,,,
+81,Verify that i can share my post in WhatsApp,"1-Open the Facebook mobileapplication
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on the three dot on the above right side of the post
+6-click on ""Share"" link
+7-click on ""send in a WhatsApp""button
+8-select first name
+9-click ""Send"" buttton",Manual,"the post must appear to 
+selected name in WhatsApp","the post must appear to 
+selected name in WhatsApp",,,,
+82,Verify that i can share my post again with specific group ,"1-Open the Facebook mobile application
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on the three dot on the above right side of the post
+6-click on ""Share"" link
+7-click on ""Share to a group""button
+8-select first group
+9-click ""post"" buttton",Manual,"the post must appear to
+selected group only","the post  appear to
+selected group only",,,,
+83,Verif that i can send comment on my posts,"1-Open the Facebook mobile application
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on the three dot on the above right side of the post
+6-click on comment (under the post)
+7-write""thanks for us""",Manual,"the comment added to the 
+post","the comment added to the 
+post",,,,
+84,Verif that i can send Like on my posts,"1-Open the Facebook mobile application
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4nafigate to last one that i posted
+5-click on the three dot on the above right side of the post
+6-click on Like (under the post)
+",Manual," the comment added to the 
+post"," the comment added to the 
+post",,,,
+85,Verif that i can send comment to specific one who Leave a comment on my posts,"1-Open the Facebook mobile application
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on the three dot on the above right side of the post
+6-click on comment (under the post)
+7-click ""Replay"" button on the last one
+who comment in your post
+8-write ""thanks""
+9-click send"">""button",Manual,"the comment added to 
+ the last one
+who comment in your post","the comment added to 
+ the last one
+who comment in your post",,,,
+86,Verif that I can send like to specific one who Leave a comment on my posts,"1-Open the Facebook mobile application
+2-Nafigate to your Profile 
+3-click on your Name to see your Profile
+4-nafigate to last one that i posted
+5-click on the three dot on the above right side of the post
+6-click on comment (under the post)
+7-click ""like"" button on the last one
+who comment in your post",Manual,"thelike added to 
+ the last one
+who comment in your post","thelike added to 
+ the last one
+who comment in your post",,,,
+87,Verif that i can send comment on posts that appear in my facebook page,"1-Open the Facebook mobile application
+2-Nafigate to last post appear in my Facebook page
+3-press on comment button
+4-write""Great post""
+5-press sent ",Manual,"the comment added to the 
+post","the comment added to the 
+post",,,,
+88,Verif that i can send Like posts that appear in my facebook page,"1-Open the Facebook mobile application
+2-Nafigate to last post appear in my Facebook page
+3-press on Like button
+4-press sent ",Manual,"the Like added to the 
+post","the Like added to the 
+post",,,,
+89,verify user can Save posts that appear on his facebock page on new create collection,"1-Open his account on the
+ Facebook mobile application
+2-click on the three dot on the above right side of the last post appear
+3-click on""Save post""
+4-click on ""New collection"" button
+5-write""new one""
+6-click ""CREATE""button",Manual,"the post saved in""new one""
+collection that created","the post saved in""new one""
+collection that created",,,,
+90,verify user can Save posts that appear on his facebock page on collection It was previously created,"1-Open his account on the
+ Facebook mobile application
+2-click on the three dot on the above right side of the last post appear
+3-click on""Save post""
+4-click on the name of last collection ",Manual,"the post saved on the 
+collection that choised","the post saved on the 
+collection that choised",,,,
+91,verify user can hide posts that appear on his facebock page,"1-Open his account on the
+ Facebook mobile application
+2-click on the three dot on the above right side of the last post appear
+3-click on""Hide post""",Manual,"the post hide from your account
+facebock","the post hide from your account
+facebock",,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

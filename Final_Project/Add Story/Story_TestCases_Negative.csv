@@ -1,0 +1,44 @@
+﻿TCID,Summary,Action,types,Expected Results,Actual Result,Status,Priority,Requirement Traceability,Bug Traceability
+1,"verify story not posts after adding text story with first color and simple font
+then press ""x""","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+4-choose simple font
+5-click on color icon
+6-choose the first color
+7-write""Welcom""
+8-clcik on ""x""
+9-Click on Discard Story",Manual,the story not send,the story not send,,,,
+2,"verify story continue editing after press ""x"" then continue editing","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on text category
+5-write""welcom""
+6-press on ""x""
+7-choose continue editing",Manual,return to complete story,return to complete story,,,,
+3,"write invalid query in search field of tag people when
+ create story","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music Category
+4-choose first song
+5-click on tag people button
+6-write"","" in search field
+",Manual,"the message of""No result found"" 
+must appear","the message of""No result found"" 
+must appear",,,,
+4,"verify music in story not saved when press save button
+(only image saved)","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music Category
+4-choose first song
+5-click on Save button",Manual,"pop message appear
+""your photowill be saved without music""","pop message appear
+""your photowill be saved without music""",,,,
+5,"verify music story still in story preparation after press 
+remove icon and then choose KEEP ","1-Open the Facebook mobileapplication
+2-click on ""Create story""
+3-click on Music Category
+4-choose first song
+5-click on music image on mobile screen
+6-click on remove icon
+7-choose KEEP",Manual,the song still on story preparation,the song still on story preparation,,,,
+,,,,,,,,,
